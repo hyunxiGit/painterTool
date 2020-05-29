@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="icon">
-    <file>icon/icon_tick.png</file>
-    <file>icon/icon_cross.png</file>
-  </qresource>
-</RCC>
